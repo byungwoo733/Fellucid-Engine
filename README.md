@@ -1,5 +1,5 @@
 # Fellucid-Engine
-Fellucid Engine™ 펠루시드 엔진 is Individual (2D, 3D) Game Engine(Based Qt) from Spread Wing Studio 스프레드윙 스튜디오 
+Fellucid Engine™ 펠루시드 엔진 is Individual (2D, 3D) Game Engine(include Editor Based Qt) from Spread Wing Studio 스프레드윙 스튜디오 
 
 * Fellucid means, It came from Pellucid by English. 
 SO it mean Clear, Transparent without some Scar
@@ -11,3 +11,5 @@ Even though this engine is much perfect, I`ll open here for growth myself or sha
 
 https://www1.qt.io/qt-licensing-terms/
 
+- Game Engine (OpenGL / C++)
+- Engine Editor(Qt)
