@@ -7,7 +7,7 @@ I want to develop transparent Game Engine myself for programming study and rearc
 Also, First Spelling "F" of Fellucid changed Spelling by expressing my individual Welling. 
 Another Challege Roadmap is the Game Engine for support Open Source CPU / GPU 
 
-(Ex) RISC-V, J-Core, Miaow GPU, Nyuzi Processor etc
+(Ex) RISC-V, J-Core(Based Hitachi SuperH(SH)), Miaow GPU, Nyuzi Processor etc
 
 I follow under GPL or LGPL from The Qt Company
 Even though this engine is much perfect, I`ll open here for growth myself or share my knowlege / Engine Development 
