@@ -25,3 +25,4 @@ https://www1.qt.io/qt-licensing-terms/
 
 ![fellucid_engine_logo](https://user-images.githubusercontent.com/14072045/40580090-78ca45be-6172-11e8-80e7-607475271f10.png)
 
+![Fellucid_Engine](https://user-images.githubusercontent.com/14072045/107699460-70cbe800-6cf9-11eb-843f-3d9528eee043.png)
