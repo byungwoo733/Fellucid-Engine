@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/Fellucid_Engine_Logo"/>
+    <qresource prefix="/">
+        <file>Fellucid_Engine_Logo_Images/Fellucid_Engine_Logo2.png</file>
+    </qresource>
+</RCC>
